@@ -1,1 +1,9 @@
 h1 {color: blue;}
+p{color: turquoise;}
+button{background-color: green;}
+
+section {background-color: lightgray;}
+
+section.nombre_de_clase_que_tu_quieras{background-color: purple;}
+
+
